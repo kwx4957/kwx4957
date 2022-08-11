@@ -5,8 +5,25 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ea5t_0/)
 [![Tistory Badge](https://img.shields.io/badge/Blog-FF9900?style=flat&logoColor=white)](https://i0521i.tistory.com/)
 
-안녕하세요 저는 백엔드쪽에 관심이 많은 학생입니다.  
-취미로는 클라이밍 🧗‍, 요리👨‍🍳, 아쉬탕가 요가🧘‍가 있습니다.
+Beautiful is better than ugly.  
+Explicit is better than implicit.  
+Simple is better than complex.  
+Complex is better than complicated.  
+Flat is better than nested.  
+Sparse is better than dense.  
+Readability counts.  
+Special cases aren't special enough to break the rules.  
+Although practicality beats purity.  
+Errors should never pass silently.  
+Unless explicitly silenced.  
+In the face of ambiguity, refuse the temptation to guess.  
+There should be one-- and preferably only one --obvious way to do it.  
+Although that way may not be obvious at first unless you're Dutch.  
+Now is better than never.  
+Although never is often better than *right* now.  
+If the implementation is hard to explain, it's a bad idea.  
+If the implementation is easy to explain, it may be a good idea.  
+Namespaces are one honking great idea -- let's do more of those!  
 
 ### Skills
 ##### Plaforms & Languages
