@@ -2,7 +2,6 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdy4957">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwx4957%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23DC0E0E&title=hits&edge_flat=true)](https://github.com/kwx4957) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ea5t_0/)
 [![Tistory Badge](https://img.shields.io/badge/Blog-FF9900?style=flat&logoColor=white)](https://i0521i.tistory.com/)
 
 Beautiful is better than ugly.  
