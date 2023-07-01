@@ -1,8 +1,6 @@
 ## Hello, Dansam👋
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdy4957" width="30%" height="30%">
 
-Devops Engineer, Backend Developer 
-
 <a href="https://github.com/kwx4957" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
