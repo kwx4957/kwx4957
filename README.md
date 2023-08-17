@@ -15,8 +15,6 @@
 </a> -->
 
 ### My Skill
-- Java
-- SpringBoot, Spring Data JPA
-- Mysql
-- AWS, Docker, Kubernetes, Jenkins, ArgoCD  
-- Git, Vim, Intellij
+- Java, SpringBoot, Spring Data JPA, MariaDB
+- Docker, Kubernetes, Jenkins, ArgoCD  
+- Git, Vim, Intellij, AWS
