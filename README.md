@@ -13,8 +13,3 @@
 <a href="https://www.notion.so/dansam4957/f0dc7b2261aa46ecb6bc606e13c8b90c" target="_blank">
 <img src=https://img.shields.io/badge/Notion-%2324292e.svg?&style=for-the-badge&logo=notion&logoColor=white alt=Notion style="margin-bottom: 5px;" />
 </a> -->
-
-### My Skill
-- Java, SpringBoot, Spring Data JPA, MariaDB
-- Docker, Kubernetes, Jenkins, ArgoCD  
-- Git, Vim, Intellij, AWS
