@@ -3,7 +3,7 @@
 
 ## Open Source Contributions
 
-**Litmus**  
+**LitmusChaos**  
 Litmus
 - [MongoDB operations support for AWS DocumentDB](https://github.com/litmuschaos/litmus/pull/4812)
 - [Comment fix](https://github.com/litmuschaos/litmus/pull/4866)
