@@ -8,8 +8,8 @@ Litmus
 - [MongoDB operations support for AWS DocumentDB](https://github.com/litmuschaos/litmus/pull/4812)
 - [Comment fix](https://github.com/litmuschaos/litmus/pull/4866)
 
-Docs
-- [Developer guide for local](https://github.com/litmuschaos/litmus-docs/pull/282)
+Litmus-Docs
+- [Developer guide](https://github.com/litmuschaos/litmus-docs/pull/282)
 
-e2e
+Litmus-e2e
 - [Fix authentication issues](https://github.com/litmuschaos/litmus-e2e/pull/411)
