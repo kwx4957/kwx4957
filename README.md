@@ -5,7 +5,7 @@
 
 **LitmusChaos**  
 Litmus
-- [MongoDB operations support for AWS DocumentDB](https://github.com/litmuschaos/litmus/pull/4812)
+- [MongoDB operations support for AWS DocumentDB](https://github.com/litmuschaos/litmus/pull/4886)
 - [Comment fix](https://github.com/litmuschaos/litmus/pull/4866)
 
 Litmus-Docs
