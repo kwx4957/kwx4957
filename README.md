@@ -6,6 +6,7 @@
 **LitmusChaos**  
 Litmus
 - [MongoDB operations support for AWS DocumentDB](https://github.com/litmuschaos/litmus/pull/4886)
+- [Make pod log intuitive](https://github.com/litmuschaos/litmus/pull/4926)
 
 Litmus-Docs
 - [Developer guide locally](https://github.com/litmuschaos/litmus-docs/pull/282)
