@@ -14,4 +14,6 @@ Litmus-Docs
 Litmus-e2e
 - [Fix authentication issues](https://github.com/litmuschaos/litmus-e2e/pull/411)
 
-etc [1](https://github.com/litmuschaos/litmus/pull/4866), [2](https://github.com/litmuschaos/litmus/pull/4905)
+etc  
+[Comment http status is fixed](https://github.com/litmuschaos/litmus/pull/4866)  
+[Change log msg for better debugging](https://github.com/litmuschaos/litmus/pull/4905)
