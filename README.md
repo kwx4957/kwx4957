@@ -1,6 +1,10 @@
 ## Hello, World👋
 
-## What i interested in
+## What i am interested in
+- OS : Linux
+- Cloud : AWS
+- DevOps : Docker, Kubernetes, LitmusChaos
+- Etc : Git, Vim,  
 
 ## Open Source Contributions
 
