@@ -4,7 +4,7 @@
 - OS : Linux
 - Cloud : AWS
 - DevOps : Docker, Kubernetes, LitmusChaos
-- Etc : Git, Vim,  
+- Etc : Git, Vim
 
 ## Open Source Contributions
 
