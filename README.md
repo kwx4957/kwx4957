@@ -2,18 +2,26 @@
 
 ## What i am interested in
 - OS : Linux
-- Cloud : AWS
-- DevOps : Docker, Kubernetes, LitmusChaos
+- DevOps : Docker, Kubernetes
 - Etc : Git, Vim
 
 ## Open Source Contributions
 
-**LitmusChaos**  
-[[Litmus] MongoDB operations support for AWS DocumentDB](https://github.com/litmuschaos/litmus/pull/4886)  
-[[Litmus] Make the pod log more user-friendly](https://github.com/litmuschaos/litmus/pull/4926)      
-[[Litmus] Add load test with locust](https://github.com/litmuschaos/litmus/pull/4955)  
-[[Litmus] Fix condition not returning error during initial login](https://github.com/litmuschaos/litmus/pull/4927)    
-[[Litmus] Http status comment is fixed](https://github.com/litmuschaos/litmus/pull/4866)    
-[[Litmus-go] Add a locust-loadgen chaos fault](https://github.com/litmuschaos/litmus-go/pull/733)  
-[[Litmus-docs] Developer guide locally](https://github.com/litmuschaos/litmus-docs/pull/282)    
-[[Litmus-e2e] Fix authentication issues](https://github.com/litmuschaos/litmus-e2e/pull/411)
+<details>
+<summary>LitmusChaos</summary>  
+
+- litmuschaos/litmus - PR [#4866](https://github.com/litmuschaos/litmus/pull/4866)  
+- litmuschaos/litmus - PR [#4886](https://github.com/litmuschaos/litmus/pull/4886)  
+- litmuschaos/litmus - PR ~~[#4926](https://github.com/litmuschaos/litmus/pull/4926)~~
+- litmuschaos/litmus - PR [#4927](https://github.com/litmuschaos/litmus/pull/4927)  
+- litmuschaos/litmus - PR [#4955](https://github.com/litmuschaos/litmus/pull/4955)  
+- litmuschaos/litmus-go - PR [#733](https://github.com/litmuschaos/litmus-go/pull/733)    
+- litmuschaos/litmus-docs - PR [#733](https://github.com/litmuschaos/litmus-docs/pull/282)   
+- litmuschaos/litmus-e2e - PR [#411](https://github.com/litmuschaos/litmus-e2e/pull/411)
+</details>
+
+<details>
+<summary>Kubespray</summary>  
+
+- kubernetes-sigs/kubespray - PR [#12920](https://github.com/kubernetes-sigs/kubespray/pull/12920)
+</details>
