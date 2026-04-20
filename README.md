@@ -1,9 +1,6 @@
 ## Hello, World👋
 
 ## What i am interested in
-- OS : Linux
-- DevOps : Docker, Kubernetes
-- Etc : Git, Vim
 
 ## Open Source Contributions
 
