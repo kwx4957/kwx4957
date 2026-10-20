@@ -12,10 +12,13 @@
 - litmuschaos/litmus - PR ~~[#4926](https://github.com/litmuschaos/litmus/pull/4926)~~
 - litmuschaos/litmus - PR [#4927](https://github.com/litmuschaos/litmus/pull/4927)  
 - litmuschaos/litmus - PR [#4955](https://github.com/litmuschaos/litmus/pull/4955)  
-- litmuschaos/litmus-go - PR [#733](https://github.com/litmuschaos/litmus-go/pull/733)    
-- litmuschaos/litmus-docs - PR [#733](https://github.com/litmuschaos/litmus-docs/pull/282)   
+- litmuschaos/litmus-go - PR [#733](https://github.com/litmuschaos/litmus-go/pull/733)
+- litmuschaos/chaos-charts - PR [#643](https://github.com/litmuschaos/chaos-charts/pull/643)    
+- litmuschaos/litmus-docs - PR [#282](https://github.com/litmuschaos/litmus-docs/pull/282)   
 - litmuschaos/litmus-e2e - PR [#411](https://github.com/litmuschaos/litmus-e2e/pull/411)
 </details>
+
+
 
 <details>
 <summary>Kubespray</summary>  
