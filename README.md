@@ -8,7 +8,7 @@
 <summary>LitmusChaos</summary>  
 
 - litmuschaos/litmus - PR [#4866](https://github.com/litmuschaos/litmus/pull/4866)  
-- litmuschaos/litmus - PR [#4886](https://github.com/litmuschaos/litmus/pull/4886)  
+- litmuschaos/litmus - PR ~~[#4886](https://github.com/litmuschaos/litmus/pull/4886)~~  
 - litmuschaos/litmus - PR ~~[#4926](https://github.com/litmuschaos/litmus/pull/4926)~~
 - litmuschaos/litmus - PR [#4927](https://github.com/litmuschaos/litmus/pull/4927)  
 - litmuschaos/litmus - PR [#4955](https://github.com/litmuschaos/litmus/pull/4955)  
